@@ -7,5 +7,5 @@ tasks:
 
 ports:
   - port: 8887
-    visibility: private
+    visibility: public
     onOpen: open-browser
